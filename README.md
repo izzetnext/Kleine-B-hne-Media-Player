@@ -2,9 +2,12 @@
 
 Dieser Mediaplayer;
 
+
 1- Es listet alle MP3-Dateien in seinem Verzeichnis in der Reihenfolge ihres Namens auf.
 
+
 2- Die Lautstärke wird entsprechend dem Zahlenwert am Ende des Dateinamens angepasst.
+
 
 Beispiel:
 
