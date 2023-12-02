@@ -6,9 +6,11 @@ Dieser Mediaplayer;
 
 Beispiel:
 2_Scene2_zddxbxzf-40.mp3
+
 Das bedeutet, dass die Audiodatei mit 40 % Lautstärke abgespielt wird.
 
 3_Scene3_gkjdshdfsgsa-60.mp3
+
 Das bedeutet, dass die Audiodatei mit 60 % Lautstärke abgespielt wird.
 
 Eigentlich ist alles so einfach.
